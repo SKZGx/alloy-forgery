@@ -12,7 +12,7 @@
 
   "container.alloy_forgery.rei.title": "Плавильня",
   "container.alloy_forgery.rei.min_tier": "Рівень: %d",
-  "container.alloy_forgery.rei.fuel_per_tick": "Паливо за тіу: %d",
+  "container.alloy_forgery.rei.fuel_per_tick": "Паливо за тік: %d",
   "container.alloy_forgery.rei.button": "Перевизначення рівнів",
 
   "message.alloy_forgery.invalid_multiblock": "Неправильна багатоблокова структура",
